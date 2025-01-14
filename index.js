@@ -13,9 +13,7 @@ let text = `# 주닐의 프로필 😸
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jl92)](https://solved.ac/jl92)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdlfrns&layout=demo&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdlfrns&exclude_repo=I_am_Junil,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdlfrns&exclude_repo=I_am_Junil&layout=demo&theme=cobalt)
 
 ## 📕 내 블로그 피드
 `;
