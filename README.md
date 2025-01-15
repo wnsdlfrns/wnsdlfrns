@@ -6,7 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jl92)](https://solved.ac/jl92)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdlfrns&layout=donut-vertical&hide=jupyter_Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdlfrns&layout=donut-vertical&langs_count=20)
 
 ***
 ## 📕 내 블로그 피드
